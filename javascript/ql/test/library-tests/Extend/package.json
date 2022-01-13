@@ -24,7 +24,7 @@
 		"object-assign": "^4.1.1",
 		"object.assign": "^4.1.0",
 		"object.defaults": "^1.1.0",
-		"ramda": "^0.25.0",
+		"ramda": "^0.27.2",
 		"smart-extend": "^1.7.3",
 		"util-extend": "^1.0.3",
 		"utils-merge": "^1.0.1",
